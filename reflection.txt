@@ -1,0 +1,30 @@
+REFLECTION
+
+process--
+The process for this assignment involved using the example code to see how the assignment was supposed to look like. After reading the example code and making my own adjustments to it, I was able to understand what each component does for the whole of the process.
+
+After reading the example code, I made my own adjustments to it by determining different visualizations that I wanted to read and compare.
+
+For the first data visualization example, I wanted to create a line plot that determined the number of new library cards per month. I adjusted some markers from the example code such as the df, color, and title to reflect my own efforts for this assignment.
+
+Moving on to the second data visualization example, I wanted to create a bar chart that described the number of programs per month. Like the first data visualization example, I adjusted the data that was alread in the example and provided the material that I wanted to use for my own findings.
+
+For the third data visualization example, I wanted to create a scatter plot that determined the relateable components of Programs and Program Attendance. Again, I replaced the information included in the example dataset with the material that I was interested in.
+
+Finally, I saved the data visualization that I was most interested in as a png file with the dpi set to 300.
+
+
+
+
+findings--
+I found that I do my best work when provided with example code so that I can play around with the data and see what happens when I make changes to it. 
+
+Some things that were a bit of confident boosters was determing whether certain libraries and packages were already installed in the editor, successfully downlading packages and libraries, try/except code portion, and completing the assignment.
+
+Something that I wanted to change was the figure size of my data visualizations. In my code, I have each data visualization set to different sizes so that I can see how they are displayed after the project runs. I found the changing of this number to be informative and fun as I create more data visualization examples in my personal projects to see how they can be disaplayed. Another component that I found interesting was rotating the xticks. At first, I didn't realize what 'plt.xticks(rotation=45)' meant until I adjusted the number. After making the adjustments, I could see the purpose of this line of code and found it helpful for my learning and in my program.
+
+
+
+
+challenges--
+Reading the example code was a bit challeninging due to the requirement of downloading the other libraries to my program. I was a bit fearful at first but after importing the libraries I was confident with moving forward with this assignment. I found myself to be more comfortable with using the terminal and checking whether a package or library has been successfully added to my editor and determine what edition of the package and library that I am dealing with.
